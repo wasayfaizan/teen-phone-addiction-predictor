@@ -1,7 +1,7 @@
 
 
   <h1>📱 Teen Phone Addiction Predictor</h1>
-
+<img width="662" height="812" alt="Screenshot 2025-07-18 at 8 08 24 PM" src="https://github.com/user-attachments/assets/1c341b5f-c47d-4c6a-a9ad-a3a9030bf6c3" />
   <p>
     This project is a machine learning-powered web application that predicts a teen's smartphone addiction level 
     (<strong>Low, Medium, or High</strong>) based on key behavioral and device usage inputs. 
@@ -51,6 +51,7 @@
 ├── logistic_regression_addiction_model.pkl
 ├── scaler.pkl
 └── README.md</code></pre>
+
 
 
 </body>
